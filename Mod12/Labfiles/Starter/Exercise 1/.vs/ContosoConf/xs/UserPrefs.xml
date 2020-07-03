@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0B2387DB-F986-4A3C-9C85-545E64BC4470}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoConf/styles/header.css">
+    <Files>
+      <File FileName="ContosoConf/styles/pages/feedback.css" Line="72" Column="1" />
+      <File FileName="ContosoConf/styles/header.css" Line="53" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContosoConf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

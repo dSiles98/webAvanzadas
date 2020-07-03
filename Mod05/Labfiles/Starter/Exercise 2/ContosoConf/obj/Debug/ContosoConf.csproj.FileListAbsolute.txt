@@ -1,0 +1,6 @@
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/bin/ContosoConf.dll
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/bin/ContosoConf.pdb
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/obj/Debug/ContosoConf.csprojAssemblyReference.cache
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/obj/Debug/ContosoConf.csproj.CoreCompileInputs.cache
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/obj/Debug/ContosoConf.dll
+/Users/Dayis/Desktop/webAvanzada/Mod05/Labfiles/Starter/Exercise 2/ContosoConf/obj/Debug/ContosoConf.pdb

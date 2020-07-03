@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0B2387DB-F986-4A3C-9C85-545E64BC4470}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoConf/location.htm">
+    <Files>
+      <File FileName="ContosoConf/location.htm" Line="1" Column="1" />
+      <File FileName="ContosoConf/scripts/pages/location.js" Line="47" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContosoConf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
